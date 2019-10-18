@@ -3,6 +3,10 @@ Alfred Lam
 aylam@ucsc.edu
 10/17/19
 
+To compile and run:
+c++ rt.cpp -o rt
+./rt
+
 My first ray tracer -
 
 Disclaimer - much of the code is taken from Ray Tracing in One Weekend by Peter Shirley, with my own additions of comments and changes of variable names/code structure. Some excerpts also taken from ScratchaPixel guides. 
