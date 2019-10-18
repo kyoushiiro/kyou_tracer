@@ -1,10 +1,14 @@
 # kyou_tracer
 Alfred Lam
+
 aylam@ucsc.edu
+
 10/17/19
 
 To compile and run:
+
 c++ rt.cpp -o rt
+
 ./rt
 
 My first ray tracer -
